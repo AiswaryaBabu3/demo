@@ -1,0 +1,144 @@
+*{margin: 0;
+padding: 0;
+}
+.design{
+    padding: 10px;
+    color: grey;
+}
+
+.logo{
+    background-color: rgb(0, 119, 255);
+    height: 50px;
+    width: 50px;
+    float: left;
+    border-radius: 50%;
+}
+.top-right-settings{
+    float: right;
+    border-radius: 50%;
+    border: 1px solid grey;
+    padding: 8px;
+    width: 22px;
+}
+.admin{
+    height: 42px;
+    width: 150px;
+    float: right;
+    margin-right: 10px;
+    padding: 1px;
+}
+.admin-photo{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    float: left;
+    background-image: url(./images/921c6d12350e366ee4af07eb9055ab40.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.top-right-bell{
+    float: right;
+    border-radius: 50%;
+    border: 1px solid grey;
+    padding: 8px;
+    width: 22px;
+    margin-right: 10px;
+}
+.content{
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+    background-color: rgb(233, 229, 229);
+}
+.top-blue{
+    background-color:  rgb(13, 59, 110);
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+.blue-innerbox{
+    height: 70%;
+    width: 15%;
+    margin-top: 12px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    float: left;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+.blue-innerbox:hover{
+    background-color: rgb(0, 119, 255);
+}
+.blue-circle{
+    border-radius: 50%;
+    border: 2px solid white;
+    padding: 8px;
+    width: 22px;
+    margin-top: 5px;
+    margin-right: 12px;
+    float: left;
+}
+.leads{
+    width: 96%;
+    float: left;
+    margin-left: 23px;
+    margin-right: 14px;
+    margin-top: 50px;
+    background-color: white;
+}
+.para{
+    float: left;
+    font-size: 12px;
+    margin-left: -125px;
+}
+.add{
+    background-color: #4CAF50;
+    float: right;
+    margin-top: -30px;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-right: 5px;
+}
+.share-icon{
+    float: right;
+    margin-right: 20px;
+    margin-top: -12px;
+    height: 20px;
+    width: 20px;
+}
+.search{
+    float: right;
+    margin-top: -26px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 50px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+   }
+   
+   table th, table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+   }
+   
+   table th {
+    background-color: #f2f2f2;
+    height: 50px;
+   }
+   
+   tr:nth-child(even) {
+    background-color: #f2f2f2;
+   }
+   
+   tr:hover {
+    background-color: #ddd;
+   }
